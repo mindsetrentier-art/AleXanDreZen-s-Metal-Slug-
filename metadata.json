@@ -1,0 +1,7 @@
+{
+  "name": "LinguaLens - AI Object Recognition Game",
+  "description": "A gamified language learning platform using real-time AI object recognition to help users master vocabulary in French, Chinese, and English.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
